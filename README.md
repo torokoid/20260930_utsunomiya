@@ -198,7 +198,7 @@ p.note { display: none; }
 <a href="20260930_00013.jpeg" target="_blank"><img src="20260930_00013.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ヨークベニマル御幸ヶ原店までの経路はこんな感じ</span></h2>
-<a href="20260929_00001.png" target="_blank"><img src="20260929_00001.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260930_00001.png" target="_blank"><img src="20260930_00001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">スーパーまでの走行動画</span></h2>
 <div class="youtube-wrapper">
